@@ -18,6 +18,8 @@ FEATURES:
 REQUIREMENTS:
 * Python:   >= 2.7
 * PySide:   http://qt-project.org/wiki/PySide
+ * To compile PySide CMake is required (on ubuntu I had also to run ```sudo apt-get install qt-sdk``` to install qmake)
+ * QT Should be installed, see the [QT website](http://qt-project.org)
 * NumPy:    http://www.numpy.org/
 * PyTables: http://www.pytables.org/
 * PyPNG:    http://pythonhosted.org/pypng/index.html
